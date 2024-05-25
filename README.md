@@ -46,7 +46,7 @@ pip install tk
 
 ## Связь с автором
 
-- Email: ielektronik98@gmail.com
+- Email: 42dannymarshall@gmail.com
 - GitHub: https://github.com/42DAN42
 - Telegram: @I_DAN_I
 
